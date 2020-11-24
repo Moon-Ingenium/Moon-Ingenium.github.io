@@ -11,9 +11,7 @@ function Portfolio(props) {
         <Wrapper>
             <Nav />
             <Container>
-                <Row >
                     <h1>Portfolio</h1>
-                </Row >
                 <Row >
                     <Project
                         title="The Hunger Game"
