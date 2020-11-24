@@ -6,20 +6,18 @@ h1  {
     text-shadow: 2px 2px black;
 
 }
-h3{
+h3  {
     text-align: center;
     
 }
 section {
-    font-family: 'PT Sans', sans-serif;
+   font-family: 'PT Sans', sans-serif;
    margin: 15px;
    text-align: center;
    padding: 20px
 
 }
-nav-item{
-    text-align: right;
-}
+
 img {
     display: block;
     margin-left: auto;
@@ -27,7 +25,7 @@ img {
     width: 75%;
     
 }
-#name{
+#name   {
     color: rgba(8, 167, 8, 0.87);
     font-weight: bold;
     font-size: 2em;
@@ -39,4 +37,20 @@ color: rgba(8, 167, 8, 0.87);
     font-weight: bold;
     font-size: 2em;
     text-shadow: 2px 2px black;
+}
+
+.nav-item   {
+    font-weight: bold;
+    text-shadow: 1px 1px green;
+}
+#navbarTogglerDemo0 {
+    background-color:green;
+}
+.card  {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.container  {
+    padding: 30px;
 }
