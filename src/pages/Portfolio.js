@@ -33,6 +33,21 @@ function Portfolio(props) {
                     href="https://moon-ingenium.github.io/Employee-Directory/"
                     src="./assests/EmployeeDirectory.png"
                     alt="REACTapp" className="img-thumbnail" />
+                    <Project
+                    title="Weather Dashboard"
+                    href="https://moon-ingenium.github.io/Weather-Dashboard/"
+                    src="./assests/Weather-Dashboard.png"
+                    alt="weather forecast" className="img-thumbnail" />
+                    <Project
+                    title="Password Generator"
+                    href="https://moon-ingenium.github.io/Password-Generator/"
+                    src="./assests/password-generator.png.png"
+                    alt="A button generates a random string of characters" className="img-thumbnail" />
+                    <Project
+                    title="Note Taker"
+                    href="https://evening-refuge-24096.herokuapp.com/notes"
+                    src="./assests/note-taker.png"
+                    alt="A note pad" className="img-thumbnail" />
             </Container>
             <Footer />
         </Wrapper>
