@@ -10,6 +10,7 @@ function Card(props) {
             <div className="card-body">
                 <ul>
                     <li className="list-group-item">robbins.michelle@ymail.com</li>
+                    <li className="list-group-item">817-564-1592</li>
                     <li className="list-group-item"><a href="https://drive.google.com/file/d/1fuvtVmJMDgSXBI6lATkYc6IPvqby-qZL/view?usp=sharing">Resume</a></li>
                     <li className="list-group-item"><a href="https://www.linkedin.com/in/michelle-moon-4123541ab/"> LinkedIn</a></li>
                     <li className="list-group-item"><a href="https://github.com/Moon-Ingenium">GitHub</a></li>
