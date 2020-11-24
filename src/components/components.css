@@ -1,0 +1,42 @@
+h1  {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(8, 167, 8, 0.87);
+    text-shadow: 2px 2px black;
+
+}
+h3{
+    text-align: center;
+    
+}
+section {
+    font-family: 'PT Sans', sans-serif;
+   margin: 15px;
+   text-align: center;
+   padding: 20px
+
+}
+nav-item{
+    text-align: right;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    
+}
+#name{
+    color: rgba(8, 167, 8, 0.87);
+    font-weight: bold;
+    font-size: 2em;
+    text-shadow: 2px 2px black;
+}
+
+.card-header{
+color: rgba(8, 167, 8, 0.87);
+    font-weight: bold;
+    font-size: 2em;
+    text-shadow: 2px 2px black;
+}

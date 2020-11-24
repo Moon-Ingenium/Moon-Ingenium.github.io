@@ -1,24 +1,24 @@
 import React from "react";
 import Nav from "../components/Nav";
+import Wrapper from "../components/Wrapper";
 import Container from "../components/Container";
+import Card from "../components/Card";
+import Col from "../components/Col";
 import Row from "../components/Row";
 
 
 function Contact(props) {
     return (
-        <div>
+        <Wrapper>
             <Nav />
             <Container>
-                <Row />
-                <div className="col-md-6">
-                    <div className="card text-center">
-                        <div className="card-header">
-                            Contact
-        </div>
-                    </div>
-                </div>
-            </Container>
-        </div>
+                <Row>
+                    <Col size={"md"} number={8}>
+                        <Card />
+                    </Col>
+                </Row>
+            </Container >
+        </Wrapper>
 
     )
 }
