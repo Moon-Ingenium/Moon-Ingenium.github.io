@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Moon-Ingenium.github.io/static/css/main.c4d833a3.chunk.css",
+    "main.js": "/Moon-Ingenium.github.io/static/js/main.37510b07.chunk.js",
+    "main.js.map": "/Moon-Ingenium.github.io/static/js/main.37510b07.chunk.js.map",
+    "runtime-main.js": "/Moon-Ingenium.github.io/static/js/runtime-main.1285a2ca.js",
+    "runtime-main.js.map": "/Moon-Ingenium.github.io/static/js/runtime-main.1285a2ca.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Moon-Ingenium.github.io/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2cfa6392.chunk.js": "/Moon-Ingenium.github.io/static/js/2.2cfa6392.chunk.js",
+    "static/js/2.2cfa6392.chunk.js.map": "/Moon-Ingenium.github.io/static/js/2.2cfa6392.chunk.js.map",
+    "static/js/3.b46e2cc1.chunk.js": "/Moon-Ingenium.github.io/static/js/3.b46e2cc1.chunk.js",
+    "static/js/3.b46e2cc1.chunk.js.map": "/Moon-Ingenium.github.io/static/js/3.b46e2cc1.chunk.js.map",
+    "index.html": "/Moon-Ingenium.github.io/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Moon-Ingenium.github.io/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.c4d833a3.chunk.css.map": "/Moon-Ingenium.github.io/static/css/main.c4d833a3.chunk.css.map",
+    "static/js/2.2cfa6392.chunk.js.LICENSE.txt": "/Moon-Ingenium.github.io/static/js/2.2cfa6392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1285a2ca.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2cfa6392.chunk.js",
+    "static/css/main.c4d833a3.chunk.css",
+    "static/js/main.37510b07.chunk.js"
+  ]
+}
