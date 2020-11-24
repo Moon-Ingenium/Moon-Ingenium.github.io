@@ -3,7 +3,6 @@ import Nav from "../components/Nav";
 import Wrapper from "../components/Wrapper";
 import Container from "../components/Container";
 import Row from "../components/Row";
-import Col from "../components/Col";
 import Project from "../components/Project";
 import Footer from "../components/Footer";
 
