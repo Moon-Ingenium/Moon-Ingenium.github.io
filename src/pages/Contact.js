@@ -5,6 +5,7 @@ import Container from "../components/Container";
 import Card from "../components/Card";
 import Col from "../components/Col";
 import Row from "../components/Row";
+import Footer from "../components/Footer";
 import "../components/components.css";
 
 function Contact(props) {
@@ -18,6 +19,7 @@ function Contact(props) {
                     </Col>
                 </Row>
             </Container >
+            <Footer />
         </Wrapper>
 
     )

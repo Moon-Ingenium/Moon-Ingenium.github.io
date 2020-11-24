@@ -54,3 +54,17 @@ color: rgba(8, 167, 8, 0.87);
 .container  {
     padding: 30px;
 }
+.footer {
+    min-height: 50px;
+    position: relative;
+  }
+  
+  .footer span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    text-align: right;
+    
+  }
