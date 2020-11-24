@@ -12,42 +12,45 @@ function Portfolio(props) {
         <Wrapper>
             <Nav />
             <Container>
-                <Row />
-                <h1>Portfolio</h1>
-                <Row />
-                <Project
-                    title="The Hunger Game"
-                    href="https://s2hon.github.io/TheHungerGame/"
-                    src="./assests/TheHungerGame.png"
-                    alt="Project1" className="img-thumbnail" />
-
-                <Row />
-                <Project
-                    title="Keep Austin Social"
-                    href="https://enigmatic-brushlands-64346.herokuapp.com/"
-                    src="./assests/KeepAustinSocial.png"
-                    alt="Project2" className="img-thumbnail" />
-                <Row />
-                <Project
-                    title="React Example"
-                    href="https://moon-ingenium.github.io/Employee-Directory/"
-                    src="./assests/EmployeeDirectory.png"
-                    alt="REACTapp" className="img-thumbnail" />
+                <Row >
+                    <h1>Portfolio</h1>
+                </Row >
+                <Row >
                     <Project
-                    title="Weather Dashboard"
-                    href="https://moon-ingenium.github.io/Weather-Dashboard/"
-                    src="./assests/Weather-Dashboard.png"
-                    alt="weather forecast" className="img-thumbnail" />
+                        title="The Hunger Game"
+                        href="https://s2hon.github.io/TheHungerGame/"
+                        src="./assests/TheHungerGame.png"
+                        alt="Project1" className="img-thumbnail" />
                     <Project
-                    title="Password Generator"
-                    href="https://moon-ingenium.github.io/Password-Generator/"
-                    src="./assests/password-generator.png.png"
-                    alt="A button generates a random string of characters" className="img-thumbnail" />
+                        title="Keep Austin Social"
+                        href="https://enigmatic-brushlands-64346.herokuapp.com/"
+                        src="./assests/KeepAustinSocial.png"
+                        alt="Project2" className="img-thumbnail" />
+                </Row>
+                <Row >
                     <Project
-                    title="Note Taker"
-                    href="https://evening-refuge-24096.herokuapp.com/notes"
-                    src="./assests/note-taker.png"
-                    alt="A note pad" className="img-thumbnail" />
+                        title="React Example"
+                        href="https://moon-ingenium.github.io/Employee-Directory/"
+                        src="./assests/EmployeeDirectory.png"
+                        alt="REACTapp" className="img-thumbnail" />
+                    <Project
+                        title="Weather Dashboard"
+                        href="https://moon-ingenium.github.io/Weather-Dashboard/"
+                        src="./assests/Weather-Dashboard.png"
+                        alt="weather forecast" className="img-thumbnail" />
+                </Row>
+                <Row >
+                    <Project
+                        title="Password Generator"
+                        href="https://moon-ingenium.github.io/Password-Generator/"
+                        src="./assests/password-generator.png"
+                        alt="A button generates a random string of characters" className="img-thumbnail" />
+                    <Project
+                        title="Note Taker"
+                        href="https://evening-refuge-24096.herokuapp.com/notes"
+                        src="./assests/note-taker.png"
+                        alt="A note pad" className="img-thumbnail" />
+                </Row >
             </Container>
             <Footer />
         </Wrapper>
