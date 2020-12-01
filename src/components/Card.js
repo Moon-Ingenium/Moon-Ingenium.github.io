@@ -8,11 +8,11 @@ function Card(props) {
                 Contact
         </div>
             <div className="card-body">
-                <p><a label="Email" value="Email" href="mailto:robbins.michelle@ymail.com" rel="noopener noreferer" className="fa fa-envelope"> </a></p>
-                    <p>817-564-1592</p>
-                    <p><a href="https://drive.google.com/file/d/1fuvtVmJMDgSXBI6lATkYc6IPvqby-qZL/view?usp=sharing"><i class="fa fa-file"></i></a></p>
-                    <p><a href="https://www.linkedin.com/in/michelle-moon-4123541ab/"><i class="fa fa-linkedin"></i></a></p>
-                    <p><a href="https://github.com/Moon-Ingenium"><i class="fa fa-github-square"></i></a></p>
+                <p><a label="Email" value="Email" href="mailto:robbins.michelle@ymail.com" rel="noopener noreferer" className="fa fa-envelope fa-3x"> </a></p>
+                    <p id ="phoneNumber">817-564-1592</p>
+                    <p><a href="https://drive.google.com/file/d/1fuvtVmJMDgSXBI6lATkYc6IPvqby-qZL/view?usp=sharing"><i className="fa fa-file fa-3x"></i></a></p>
+                    <p><a href="https://www.linkedin.com/in/michelle-moon-4123541ab/"><i className="fa fa-linkedin fa-3x"></i></a></p>
+                    <p><a href="https://github.com/Moon-Ingenium"><i className="fa fa-github-square fa-3x"></i></a></p>
             </div>
         </div>
     );

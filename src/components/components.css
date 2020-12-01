@@ -68,3 +68,11 @@ color: rgba(8, 167, 8, 0.87);
     text-align: right;
     
   }
+  .fa{
+      color:black;
+  }
+
+  #phoneNumber{
+      font-weight: bold;
+      font-size: larger;
+  }
