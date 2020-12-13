@@ -42,8 +42,8 @@ color: rgba(8, 167, 8, 0.87);
     font-weight: bold;
     text-shadow: 1px 1px green;
 }
-#navbarTogglerDemo0 {
-    background-color:green;
+.nav {
+    background-color:white;
 }
 .card  {
     display: flex;

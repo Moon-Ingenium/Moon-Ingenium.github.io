@@ -6,7 +6,9 @@ function Project(props) {
 
     return (
         <Col size={"md"} number={6}>
-            <h3>{props.title}</h3>
+            <a href={props.link} style={{color:"black"}}>
+                <h3>{props.title}</h3>
+            </a>
             <a href={props.href}>
                 <img src={props.src} alt={props.alt} className="img-thumbnail" />
             </a>

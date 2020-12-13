@@ -5,7 +5,7 @@ import "./components.css";
 
 function Nav (props) {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light">
           <Link className="navbar-brand" to="/" id="name">
             Michelle Moon
           </Link>
