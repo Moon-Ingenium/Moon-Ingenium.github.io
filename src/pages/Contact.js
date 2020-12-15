@@ -13,11 +13,13 @@ function Contact(props) {
         <Wrapper>
             <Nav />
             <Container >
+            <div className="container-contact d-flex justify-content-center">
                 <Row>
-                    <Col size={"md"} number={8}>
+                    <Col size={"md"} number={12}>
                         <Card />
                     </Col>
                 </Row>
+                </div>
             </Container >
             <Footer />
         </Wrapper>

@@ -1,20 +1,19 @@
 import React from "react";
 import "./components.css";
-import Container from "../components/Container";
 
 var style = {
-  backgroundColor: "white",
-  borderTop: "none",
+  backgroundColor: "#f6f7e9",
+  border: "none",
   textAlign: "center",
-  padding: "20px",
+  padding: "10px",
   position: "fixed",
   left: "0",
   bottom: "0",
-  height: "60px",
+  height: "50px",
   width: "100%",
   fontWeight: "bold",
   color: "black",
-  textShadow: "1px 1px green"
+  textShadow: "1px 1px #1a936f"
 }
 
 var phantom = {

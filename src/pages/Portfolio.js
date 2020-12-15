@@ -10,7 +10,7 @@ function Portfolio(props) {
     return (
         <Wrapper>
             <Nav />
-            <Container>
+            <Container >
                 <h1>Portfolio</h1>
                 <Row >
                     <Project
