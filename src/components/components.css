@@ -96,6 +96,7 @@ img {
   }
  p {
      font-size: small;
+     text-align: center;
  }
 
 .develop{
@@ -108,4 +109,7 @@ img {
         display: flex;
     margin-right: 100px;
     text-align: center;
+}
+.project-link{
+   justify-content: center;
 }
