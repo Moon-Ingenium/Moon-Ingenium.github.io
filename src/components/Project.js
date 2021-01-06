@@ -14,6 +14,7 @@ function Project(props) {
                 <img src={props.src} alt={props.alt} className="img-thumbnail" style={{ marginBottom: "20px" }} />
             </a>
             <p className="summary">{props.summary}</p>
+            
 
         </Col>
     )
