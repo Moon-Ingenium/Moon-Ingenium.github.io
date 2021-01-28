@@ -1,4 +1,3 @@
-
 h1  {
     font-size: 2em;
     font-weight: bold;
@@ -112,4 +111,7 @@ img {
 }
 .project-link{
    justify-content: center;
+}
+footer{
+    margin-top:80px;
 }
